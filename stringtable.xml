@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Forest_Run">
+
+	<Key ID="STR_TB_missionTitle_TB_ForestRun">
+		<Original>Forest Run</Original>
+		<English>Forest Run</English>
+		<German>Forest Run</German>
+		<Italian>Forest Run</Italian>
+		<Spanish>Forest Run</Spanish>
+		<French>Forest Run</French>
+		<Czech>Forest Run</Czech>
+		<Russian>Forest Run</Russian>
+		<Polish>Forest Run</Polish>
+		<Hungarian>Forest Run</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_ForestRun">
+		<Original>TacBF A&amp;S[T-10]: Forest Run</Original>
+		<English>TacBF A&amp;S[T-10]: Forest Run</English>
+		<German>TacBF A&amp;S[T-10]: Forest Run</German>
+		<Italian>TacBF A&amp;S[T-10]: Forest Run</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Forest Run</Spanish>
+		<French>TacBF A&amp;S[T-10]: Forest Run</French>
+		<Czech>TacBF A&amp;S[T-10]: Forest Run</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Forest Run</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Forest Run</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Forest Run</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
